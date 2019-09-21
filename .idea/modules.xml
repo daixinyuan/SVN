@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SVN.iml" filepath="$PROJECT_DIR$/.idea/SVN.iml" />
-
+      <module fileurl="file://$PROJECT_DIR$/XiaoMiShangChen/XiaoMiShangChen.iml" filepath="$PROJECT_DIR$/XiaoMiShangChen/XiaoMiShangChen.iml" />
     </modules>
   </component>
 </project>
