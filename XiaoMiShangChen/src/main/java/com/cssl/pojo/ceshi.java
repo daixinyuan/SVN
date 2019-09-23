@@ -5,5 +5,6 @@ public class ceshi {
     public static void main(String[] args) {
         //写了个main方法
        System.out.println("13213121321iiiii");
+        System.out.println("666");
     }
 }
